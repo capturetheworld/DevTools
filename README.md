@@ -4,7 +4,7 @@ List of DevTools that CS programs should be using also list of stuff that CS pro
 
 
 
-##IDE and Code Editor
+## IDE and Code Editor
 | Name | ... |
 |-------|---------|
 | VSCode  | Overall great code editor with a bunch of plugins (Java, Go, etc). Great for web dev. |
@@ -12,14 +12,14 @@ List of DevTools that CS programs should be using also list of stuff that CS pro
 | VIM or Nano | For when you're in a server and need a quick edit. |
 
 
-##Version control
+## Version control
 | Name | ... |
 |-------|---------|
 | Git/Git syntax | [Cheatsheet](https://medium.com/@annamedyukh/the-only-git-cheat-sheet-you-need-9dce3ccc4036) |
 | GitHub | Well you're here so... |
 | Markdown | [Basic Formatting of .md files](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) |
 
-##UX
+## UX
 | Name | ... |
 |-------|---------|
 | Figma | Interface design |

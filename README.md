@@ -37,4 +37,11 @@ List of DevTools that CS programs should be using also list of stuff that CS pro
 
 https://daniel.haxx.se/docs/curl-vs-wget.html
 
+## Terminal
+- If you're on macOS you're probably using Terminal.app (the Unix terminal emulator). It's ZSH or Z Shell.
+- iTerm is an option.
+- `ps -p $$` is the command to check which terminal
+- `~/.zshrc` folder is not there by default. Create it to associate commands upon launch of Terminal
+- `source ~/.nvm/nvm.sh` load functions file into shell script
+
 

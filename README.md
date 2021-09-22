@@ -26,5 +26,15 @@ List of DevTools that CS programs should be using also list of stuff that CS pro
 | Material Design Color Pallettes | [Link](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) |
 | Nord Color Pallettes | [Link](https://www.nordtheme.com/) |
 | Carbon Design System | [Link](https://www.carbondesignsystem.com/) |
+| Adobe Color | [Link](https://color.adobe.com/create) |
+
+## Installers and Package Managers (macOS)
+- curl (library or command line - 
+- pip package installer Python
+- wget (recursive download)
+- brew package manager
+
+
+https://daniel.haxx.se/docs/curl-vs-wget.html
 
 

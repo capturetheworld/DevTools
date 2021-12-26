@@ -44,4 +44,7 @@ https://daniel.haxx.se/docs/curl-vs-wget.html
 - `~/.zshrc` folder is not there by default. Create it to associate commands upon launch of Terminal
 - `source ~/.nvm/nvm.sh` load functions file into shell script
 
+##Project Management
+https://obsidian.md/
+
 
